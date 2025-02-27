@@ -1,8 +1,6 @@
-# 🚀 Abayomi Ogunbayo - Software Engineer
+## 👋 Hey there
 
-## 👋 About Me
-
-Hey there! I'm **Abayomi Ogunbayo**, a backend wizard 🧙‍♂️ who loves turning complex problems into seamless solutions. Whether it's scaling systems, optimizing performance, or tackling real-world challenges, I'm all about **efficiency, impact, and fun!** 🚀
+I'm **Ogunbayo Abayomi**, a backend wizard 🧙‍♂️ who loves turning complex problems into seamless solutions. Whether it's scaling systems, optimizing performance, or tackling real-world challenges, I'm all about **efficiency, impact, and fun!** 🚀
 
 ## 🔧 Technical Skills
 
