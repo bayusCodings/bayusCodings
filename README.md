@@ -1,7 +1,5 @@
 # 🚀 Abayomi Ogunbayo - Software Engineer
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=bayusCodings&color=blue)
-
 ## 👋 About Me
 
 Hey there! I'm **Abayomi Ogunbayo**, a backend wizard 🧙‍♂️ who loves turning complex problems into seamless solutions. Whether it's scaling systems, optimizing performance, or tackling real-world challenges, I'm all about **efficiency, impact, and fun!** 🚀
